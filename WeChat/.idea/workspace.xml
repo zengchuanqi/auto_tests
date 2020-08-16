@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d4007ff5-b96f-4261-8b5b-1c6af9931f10" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1fzC7O870MZy66JQCSmOKqenalP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/test_xueqiu" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyIntegratedToolsModulesConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\pythonstudy\WeChat\test_xueqiu" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\pythonstudy\WeChat\wechat_web\test_case" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python tests.pytest for test_index.TestIndex.test_searchs">
+    <configuration name="pytest for test_dd.TestDD.test_dd" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="WeChat" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_xueqiu/test_case" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_dd.TestDD.test_dd&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_index.TestIndex" type="tests" factoryName="py.test" nameIsGenerated="true">
+      <module name="WeChat" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/wechat_web/test_case" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_index.TestIndex&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_index.TestIndex.test_aa" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="WeChat" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_xueqiu/test_case" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_index.TestIndex.test_aa&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_index.TestIndex.test_search" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="WeChat" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_xueqiu/test_case" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_index.TestIndex.test_search&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_index.TestIndex.test_searchs" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="WeChat" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_xueqiu/test_case" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_index.TestIndex.test_searchs&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_my.TestMy.test_login_in" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="WeChat" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_xueqiu/test_case" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_my.TestMy.test_login_in&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.pytest for test_index.TestIndex.test_searchs" />
+        <item itemvalue="Python tests.pytest for test_index.TestIndex.test_search" />
+        <item itemvalue="Python tests.pytest for test_my.TestMy.test_login_in" />
+        <item itemvalue="Python tests.pytest for test_index.TestIndex.test_aa" />
+        <item itemvalue="Python tests.pytest for test_dd.TestDD.test_dd" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d4007ff5-b96f-4261-8b5b-1c6af9931f10" name="Default Changelist" comment="" />
+      <created>1597211365946</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597211365946</updated>
+      <workItem from="1597211367430" duration="13068000" />
+      <workItem from="1597234406438" duration="3000" />
+      <workItem from="1597237290917" duration="2003000" />
+      <workItem from="1597279818236" duration="30796000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="137" y="22" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597216395263">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="22" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1597216395263" />
+    <state x="463" y="122" key="FileChooserDialogImpl" timestamp="1597540025890">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="122" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1597540025890" />
+    <state width="1323" height="252" key="GridCell.Tab.0.bottom" timestamp="1597558641583">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="252" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1597558641583" />
+    <state width="1323" height="252" key="GridCell.Tab.0.center" timestamp="1597558641583">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="252" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1597558641583" />
+    <state width="1323" height="252" key="GridCell.Tab.0.left" timestamp="1597558641583">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="252" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1597558641583" />
+    <state width="1323" height="252" key="GridCell.Tab.0.right" timestamp="1597558641583">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="252" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1597558641583" />
+    <state width="1323" height="252" key="GridCell.Tab.1.bottom" timestamp="1597558641584">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="252" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1597558641584" />
+    <state width="1323" height="252" key="GridCell.Tab.1.center" timestamp="1597558641583">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="252" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1597558641583" />
+    <state width="1323" height="252" key="GridCell.Tab.1.left" timestamp="1597558641583">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="252" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1597558641583" />
+    <state width="1323" height="252" key="GridCell.Tab.1.right" timestamp="1597558641583">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="252" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1597558641583" />
+    <state x="186" y="9" key="SettingsEditor" timestamp="1597216474618">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="186" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1597216474618" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1597290698547">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1597290698547" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test_xueqiu/test_case/test_index.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/WeChat$test_index.coverage" NAME="test_index Coverage Results" MODIFIED="1597216353674" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wechat_web/test_case" />
+    <SUITE FILE_PATH="coverage/WeChat$pytest_for_test_index_TestIndex_test_add_member.coverage" NAME="pytest for test_index.TestIndex.test_add_member Coverage Results" MODIFIED="1597218053981" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wechat_web/test_case" />
+    <SUITE FILE_PATH="coverage/WeChat$pytest_for_test_index_TestIndex_test_search.coverage" NAME="pytest for test_index.TestIndex.test_search Coverage Results" MODIFIED="1597314412737" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_xueqiu/test_case" />
+    <SUITE FILE_PATH="coverage/WeChat$pytest_for_test_index_TestIndex_test_mass_message.coverage" NAME="pytest for test_index.TestIndex.test_mass_message Coverage Results" MODIFIED="1597229624000" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wechat_web/test_case" />
+    <SUITE FILE_PATH="coverage/WeChat$pytest_for_test_index_test_a.coverage" NAME="pytest for test_index.test_a Coverage Results" MODIFIED="1597282636215" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_xueqiu/test_case" />
+    <SUITE FILE_PATH="coverage/WeChat$base.coverage" NAME="base Coverage Results" MODIFIED="1597216007290" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wechat_web/comment" />
+    <SUITE FILE_PATH="coverage/WeChat$pytest_in_test_manage_tool_py.coverage" NAME="pytest in test_manage_tool.py Coverage Results" MODIFIED="1597232061336" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wechat_web/test_case" />
+    <SUITE FILE_PATH="coverage/WeChat$pytest_for_test_my_TestMy_test_login_in.coverage" NAME="pytest for test_my.TestMy.test_login_in Coverage Results" MODIFIED="1597299469007" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_xueqiu/test_case" />
+    <SUITE FILE_PATH="coverage/WeChat$pytest_for_test_index_TestIndex_test_import_contact.coverage" NAME="pytest for test_index.TestIndex.test_import_contact Coverage Results" MODIFIED="1597218904904" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wechat_web/test_case" />
+    <SUITE FILE_PATH="coverage/WeChat$pytest_for_test_index_TestIndex.coverage" NAME="pytest for test_index.TestIndex Coverage Results" MODIFIED="1597216424622" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wechat_web/test_case" />
+    <SUITE FILE_PATH="coverage/WeChat$pytest_for_test_manage_tool_TestManageTool_test_material.coverage" NAME="pytest for test_manage_tool.TestManageTool.test_material Coverage Results" MODIFIED="1597234011333" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wechat_web/test_case" />
+    <SUITE FILE_PATH="coverage/WeChat$pytest_for_test_index_TestIndex_test_searchs.coverage" NAME="pytest for test_index.TestIndex.test_searchs Coverage Results" MODIFIED="1597332741787" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_xueqiu/test_case" />
+    <SUITE FILE_PATH="coverage/WeChat$pytest_for_test_index_TestIndex_test_aa.coverage" NAME="pytest for test_index.TestIndex.test_aa Coverage Results" MODIFIED="1597296173599" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_xueqiu/test_case" />
+    <SUITE FILE_PATH="coverage/WeChat$pytest_for_test_dd_TestDD_test_dd.coverage" NAME="pytest for test_dd.TestDD.test_dd Coverage Results" MODIFIED="1597294186660" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_xueqiu/test_case" />
+    <SUITE FILE_PATH="coverage/WeChat$pytest_for_test_manage_tool_TestIndex_test_material.coverage" NAME="pytest for test_manage_tool.TestIndex.test_material Coverage Results" MODIFIED="1597230615450" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wechat_web/test_case" />
+    <SUITE FILE_PATH="coverage/WeChat$pytest_in_test_index_py.coverage" NAME="pytest in test_index.py Coverage Results" MODIFIED="1597287847760" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_xueqiu/test_case" />
+    <SUITE FILE_PATH="coverage/WeChat$contact.coverage" NAME="contact Coverage Results" MODIFIED="1597215319027" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wechat_web/page" />
+    <SUITE FILE_PATH="coverage/WeChat$pytest_in_test_case.coverage" NAME="pytest in test_case Coverage Results" MODIFIED="1597232211245" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wechat_web/test_case" />
+    <SUITE FILE_PATH="coverage/WeChat$pytest_for_test_customer_contact_TestManageTool_test_productAlbum.coverage" NAME="pytest for test_customer_contact.TestManageTool.test_productAlbum Coverage Results" MODIFIED="1597234277531" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wechat_web/test_case" />
+  </component>
+</project>
